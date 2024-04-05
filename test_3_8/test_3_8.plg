@@ -1,0 +1,43 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: test_3_8 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP9ED5.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/test_3_8.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"D:\test_3_8\C语言实战-字符串加密.c"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP9ED5.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP9ED6.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/test_3_8.pdb" /debug /machine:I386 /out:"Debug/test_3_8.exe" /pdbtype:sept 
+".\Debug\C语言实战-字符串加密.obj"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP9ED6.tmp"
+<h3>Output Window</h3>
+Compiling...
+C语言实战-字符串加密.c
+D:\test_3_8\C语言实战-字符串加密.c(3) : error C2143: syntax error : missing ';' before 'type'
+D:\test_3_8\C语言实战-字符串加密.c(3) : error C2143: syntax error : missing ';' before 'type'
+D:\test_3_8\C语言实战-字符串加密.c(3) : error C2143: syntax error : missing ')' before 'type'
+D:\test_3_8\C语言实战-字符串加密.c(3) : error C2143: syntax error : missing ';' before 'type'
+D:\test_3_8\C语言实战-字符串加密.c(3) : error C2065: 'p' : undeclared identifier
+D:\test_3_8\C语言实战-字符串加密.c(3) : error C2100: illegal indirection
+D:\test_3_8\C语言实战-字符串加密.c(3) : warning C4552: '!=' : operator has no effect; expected operator with side-effect
+D:\test_3_8\C语言实战-字符串加密.c(3) : error C2059: syntax error : ')'
+D:\test_3_8\C语言实战-字符串加密.c(3) : error C2143: syntax error : missing ';' before '{'
+D:\test_3_8\C语言实战-字符串加密.c(4) : error C2100: illegal indirection
+D:\test_3_8\C语言实战-字符串加密.c(14) : warning C4013: 'strcpy' undefined; assuming extern returning int
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+test_3_8.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
