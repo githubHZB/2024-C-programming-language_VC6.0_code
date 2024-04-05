@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 1test_3_29 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPAC57.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/1test_3_29.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"D:\1test_3_29\求100~200的全部素数.c"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPAC57.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPAC58.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/1test_3_29.pdb" /debug /machine:I386 /out:"Debug/1test_3_29.exe" /pdbtype:sept 
+".\Debug\求100~200的全部素数.obj"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPAC58.tmp"
+<h3>Output Window</h3>
+Compiling...
+求100~200的全部素数.c
+D:\1test_3_29\求100~200的全部素数.c(7) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+D:\1test_3_29\求100~200的全部素数.c(7) : error C2143: syntax error : missing ';' before 'for'
+D:\1test_3_29\求100~200的全部素数.c(7) : error C2065: 'i' : undeclared identifier
+D:\1test_3_29\求100~200的全部素数.c(13) : error C2065: 'd10' : undeclared identifier
+D:\1test_3_29\求100~200的全部素数.c(13) : error C2059: syntax error : ')'
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+1test_3_29.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
