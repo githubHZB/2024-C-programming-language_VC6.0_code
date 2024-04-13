@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\2024\\test_4_12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF128748-ABBB-436E-8C7E-821EDB24FFA8}|test_4_12\\test_4_12.vcxproj|D:\\code\\2024\\test_4_12\\test_4_12\\P165\u8BFE\u540E\u7EC3\u4E60\u7B2C3\u9898_\u6C42\u4E00\u4E2A3x3\u7684\u6574\u6570\u77E9\u9635\u5BF9\u89D2\u7EBF\u5143\u7D20\u4E4B\u548C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF128748-ABBB-436E-8C7E-821EDB24FFA8}|test_4_12\\test_4_12.vcxproj|solutionrelative:test_4_12\\P165\u8BFE\u540E\u7EC3\u4E60\u7B2C3\u9898_\u6C42\u4E00\u4E2A3x3\u7684\u6574\u6570\u77E9\u9635\u5BF9\u89D2\u7EBF\u5143\u7D20\u4E4B\u548C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P165\u8BFE\u540E\u7EC3\u4E60\u7B2C3\u9898_\u6C42\u4E00\u4E2A3x3\u7684\u6574\u6570\u77E9\u9635\u5BF9\u89D2\u7EBF\u5143\u7D20\u4E4B\u548C.c",
+              "DocumentMoniker": "D:\\code\\2024\\test_4_12\\test_4_12\\P165\u8BFE\u540E\u7EC3\u4E60\u7B2C3\u9898_\u6C42\u4E00\u4E2A3x3\u7684\u6574\u6570\u77E9\u9635\u5BF9\u89D2\u7EBF\u5143\u7D20\u4E4B\u548C.c",
+              "RelativeDocumentMoniker": "test_4_12\\P165\u8BFE\u540E\u7EC3\u4E60\u7B2C3\u9898_\u6C42\u4E00\u4E2A3x3\u7684\u6574\u6570\u77E9\u9635\u5BF9\u89D2\u7EBF\u5143\u7D20\u4E4B\u548C.c",
+              "ToolTip": "D:\\code\\2024\\test_4_12\\test_4_12\\P165\u8BFE\u540E\u7EC3\u4E60\u7B2C3\u9898_\u6C42\u4E00\u4E2A3x3\u7684\u6574\u6570\u77E9\u9635\u5BF9\u89D2\u7EBF\u5143\u7D20\u4E4B\u548C.c",
+              "RelativeToolTip": "test_4_12\\P165\u8BFE\u540E\u7EC3\u4E60\u7B2C3\u9898_\u6C42\u4E00\u4E2A3x3\u7684\u6574\u6570\u77E9\u9635\u5BF9\u89D2\u7EBF\u5143\u7D20\u4E4B\u548C.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-12T14:39:23.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
